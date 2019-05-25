@@ -1,0 +1,12 @@
+ID,Name,SW,SE,NE,NW,total
+1,Spitzwegerich,6,15,4,0,25
+2a,Horst-Gras_breit,2,5,8,6,21
+2b,Horst-Gras_rund,100,100,100,100,400
+5,Taraxacum,2,0,9,4,15
+6,Plant_with_leaf_metamorphosis,20,5,0,29,54
+9,Fern_like_plant,0,1,14,7,22
+10,Sauerampfer,34,0,0,8,42
+11,Grass_like_pink_flower,95,72,62,58,287
+13,Schachtelhalmartig,0,100,15,0,115
+14,Oh_theres_a_new_one,1,0,0,0,1
+15,Rosaceae,0,0,0,1,1

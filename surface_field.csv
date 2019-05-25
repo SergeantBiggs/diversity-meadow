@@ -1,0 +1,61 @@
+Artenzahl Baum,,,,,
+ID,Name ,SW,SO,NO,NW
+1,Spitzwegerich,13,13,3,0
+2,Horst-Gras,beliebig,25,beliebig,beliebig
+3,Veronica,beliebig,beliebig,20,beliebig
+4,Lamiaceae,1,4,6,2
+5,Taraxacum,2 bis 5,9,3,2  bis 5 
+6,Plant with leaf metamorphosis,10,12,0,9
+7,Gallium,0,0,8,4
+8,Fuzzy plant pink stem,2,9,2,2
+9,Fern like plant small,0,2,50,50
+10,Sauerampfer,0,4,1,3
+11,Grass like pink flower,0,1,0,0
+12,Fern like big,0,1,0,0
+,,,,,
+,,,,,
+Fläche Baum,,,,,
+ID,Name ,SW,SO,NO,NW
+1,Spitzwegerich,Keine Daten,,,
+2,Horst-Gras,50,bis zu 25,bis zu 50,bis zu 75
+3,Veronica,50,50,bis zu 5,5 bis 25
+4,Lamiaceae, unter 1,bis zu 1,1 bis 5,1 bis 5
+5,Taraxacum,unter 1,bis 5,unter 1,unter 1
+6,Plant with leaf metamorphosis,unter 1,bis 5,0,unter 1
+7,Gallium,unter 1,unter 1, unter 1 ,unter 1 
+8,Fuzzy plant pink stem,Keine Daten,,,
+9,Fern like plant small,unter 1,unter 1 ,5 bis 10,5 bis 10
+10,Sauerampfer,0,0,0,unter 1
+11,Grass like pink flower,0,0,0,0
+12,Fern like big,0,0,0,0
+,,,,,
+,,,,,
+,,,,,
+Artenzahl Wiese,,,,,
+ID,Name,SW,SO,NO,NW
+1,Spitzwegerich,6,15,4,0
+2a,Horst-Gras breit,2,5,8,6
+2b,Horst-Gras rund,beliebig,beliebig,beliebig,beliebig
+5,Taraxacum,2,0,9,4
+6,Plant with leaf metamorphosis,20,5,0,29
+9,Fern like plant,0,1,14,7
+10,Sauerampfer,34,0,0,8
+11,Grass like pink flower,95,72,62,58
+13,Schachtelhalmartig,0,über 100,15,0
+14,"Oh, theres a new one",1,0,0,0
+15,Rosaceae,0,0,0,1
+,,,,,
+,,,,,
+Fläche Wiese,,,,,
+ID,Name,SW,SO,NO,NW
+1,Spitzwegerich,Keine Daten,,,
+2a,Horst-Gras breit,1,unter 5,unter 5,5
+2b,Horst-Gras rund,50 bis 75,50 bis 75,50 bis 75,50 bis 75
+5,Taraxacum,0,0,5 bis 10,bis 5
+6,Plant with leaf metamorphosis,unter 5,unter 1,0,1 bis 5
+9,Fern like plant,0,unter 1 ,unter 1,0
+10,Sauerampfer,bis zu 5,0,0,1 bis 5
+11,Grass like pink flower,25,25,25,25
+13,Schachtelhalmartig,0,unter 5,unter 5,0
+14,"Oh, theres a new one",0,0,0,0
+15,Rosaceae,0,0,0,0

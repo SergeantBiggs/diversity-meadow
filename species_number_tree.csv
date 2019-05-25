@@ -1,0 +1,13 @@
+ID,Name,SW,SE,NE,NW,total
+1,Spitzwegerich,13,13,3,0,29
+2,Horst-Gras,100,25,100,100,325
+3,Veronica,100,100,20,100,320
+4,Lamiaceae,1,4,6,2,13
+5,Taraxacum,3,9,3,3,18
+6,Plant_with_leaf_metamorphosis,10,12,0,9,31
+7,Gallium,0,0,8,4,12
+8,Fuzzy_plant_pink_stem,2,9,2,2,15
+9,Fern_like_plant_small,0,2,50,50,102
+10,Sauerampfer,0,4,1,3,8
+11,Grass_like_pink_flower,0,1,0,0,1
+12,Fern_like_big,0,1,0,0,1
