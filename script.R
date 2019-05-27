@@ -5,7 +5,6 @@ library(vegan)
 species_number_tree <- read.csv("species_number_tree.csv", header=T)
 species_number_field <- read.csv("species_number_field.csv", header=T)
 
-
 cat("-------------------------------------\n")
 cat("Diversity tree\n")
 cat("Total:", diversity(species_number_tree$total), "\n")
