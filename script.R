@@ -39,3 +39,19 @@ cat("SE:", sum(species_number_field$SE), "\n")
 cat("NE:", sum(species_number_field$NE), "\n")
 cat("NW:", sum(species_number_field$NW), "\n")
 cat("-------------------------------------")
+
+comparison_total <- c(sum(species_number_tree$total), sum(species_number_field$total))
+
+comparison_tree <- c(sum(species_number_tree$SW), sum(species_number_tree$SE), sum(species_number_tree$NE), sum(species_number_tree$NW))
+
+comparison_field <- c(sum(species_number_field$SW), sum(species_number_field$SE), sum(species_number_field$NE), sum(species_number_field$NW))
+
+dir.create("output")
+setwd("output")
+
+pdf()
+barplot(comparison_total, main="Total richness", xlab="Location", ylab="Frequency", names.arg=c("tree", "field"), col="green",xlim=c(0,5), space=0.5, ylim=c(0,1000))
+
+barplot(comparison_tree, main="Richness tree", xlab="Location", ylab="Frequency", names.arg=c("SW","SE","NE","NW"), col="green",xlim=c(0,5), space=0.25, ylim=c(0,300))
+
+barplot(comparison_field, main="Richness field", xlab="Location", ylab="Frequency", names.arg=c("SW","SE","NE","NW"), col="green",xlim=c(0,5), space=0.25, ylim=c(0,300))
